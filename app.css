@@ -1,0 +1,13 @@
+﻿html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background: black;
+}
+
+canvas#app {
+    margin: 0 auto;
+    display: block;
+}
